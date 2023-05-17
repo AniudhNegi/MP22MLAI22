@@ -54,7 +54,7 @@ if (selected == 'Home'):
     st.markdown("- Nausea\n- Vomiting\n- Fatigue and weakness\n- Muscle twitches and cramps\n- Loss of appetite")
     
     st.header("Liver Disease")
-    st.markdown("")
+    st.markdown("The liver has many important functions, including digesting your food and processing and distributing nutrients.There are many kinds of liver diseases and conditions. Some, like hepatitis, are caused by viruses. Others can be the result of drugs or drinking too much alcohol. Long-lasting injury or scar tissue in the liver can cause cirrhosis. Jaundice, or yellowing of the skin, can be one sign of liver disease.")
     st.subheader("Symptoms")
     st.markdown("- Skin and eyes that appear yellowish (jaundice)\n- Abdominal pain and swelling\n- Swelling in the legs and ankles\n- Itchy skin\n- Dark urine color\n- Pale stool color\n- Chronic fatigue\n- Nausea or vomiting\n- Loss of appetite\n- Tendency to bruise easily ")
 
