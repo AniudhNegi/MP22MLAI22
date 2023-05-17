@@ -56,7 +56,7 @@ if (selected == 'Home'):
     st.header("Liver Disease")
     st.markdown("")
     st.subheader("Symptoms")
-    st.markdown("- ")
+    st.markdown("- Skin and eyes that appear yellowish (jaundice)\n- Abdominal pain and swelling\n- Swelling in the legs and ankles\n- Itchy skin\n- Dark urine color\n- Pale stool color\n- Chronic fatigue\n- Nausea or vomiting\n- Loss of appetite\n- Tendency to bruise easily ")
 
 # Medical Assistant,       
 if (selected=='Medical Assistant'):
