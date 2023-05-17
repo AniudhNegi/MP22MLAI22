@@ -56,7 +56,7 @@ if (selected == 'Home'):
     st.header("Liver Disease")
     st.markdown("")
     st.subheader("Symptoms")
-    st.markdown("- )
+    st.markdown("- ")
 
 # Medical Assistant,       
 if (selected=='Medical Assistant'):
