@@ -52,6 +52,11 @@ if (selected == 'Home'):
     st.markdown("Chronic kidney disease (CKD) means your kidneys are damaged and can’t filter blood the way they should. The disease is called “chronic” because the damage to your kidneys happens slowly over a long period of time. This damage can cause wastes to build up in your body. CKD can also cause other health problems.")
     st.subheader("Symptoms")
     st.markdown("- Nausea\n- Vomiting\n- Fatigue and weakness\n- Muscle twitches and cramps\n- Loss of appetite")
+    
+    st.header("Liver Disease")
+    st.markdown("")
+    st.subheader("Symptoms")
+    st.markdown("- )
 
 # Medical Assistant,       
 if (selected=='Medical Assistant'):
